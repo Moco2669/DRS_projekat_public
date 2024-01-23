@@ -1,0 +1,7 @@
+flask
+flask-cors
+flask-jwt-extended
+firebase-admin
+marshmallow
+google-api-core
+google-auth
